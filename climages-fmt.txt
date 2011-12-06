@@ -1,7 +1,6 @@
                       CL_Images File Format (Partial)
 
                      Michael Olney <mpolney@gmail.com>
-                        http://molney.supdup.org/
 
 INTRODUCTION
 
