@@ -1,3 +1,8 @@
+---
+layout: default
+title: Clan Lord Image Extractor
+---
+
 Clan Lord Image Extractor
 ==
 
