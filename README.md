@@ -1,6 +1,6 @@
 # clext: Extractor for Clan Lord CL_Images file
 
-This tool extracts all the image resources from the data files
+This tool extracts some of the image resources from the data files
 for an old game called [Clan Lord][1]. I wrote this code some time
 in 2008 and figured out the format by inspecting the binaries of
 a program capable of reading the format using GDB on OS X. The
